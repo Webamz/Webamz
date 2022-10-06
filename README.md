@@ -3,7 +3,7 @@
 ### Software Engineer in making from Rwanda, Kigali
 ### 
 
-🌱 I’m currently learning Python
+- 🌱 I’m currently a student of ALX Software Engineering Program
 
 <!--
 **Webamz/Webamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
