@@ -1,8 +1,10 @@
-### Hi there👋, I'm Christian Iradukunda
+### Hi there👋, I'm Christian Iradukunda 
 
-<div>
+### Software Engineer in making from Rwanda, Kigali
+### 
+
 🌱 I’m currently learning Python
-</div>
+
 <!--
 **Webamz/Webamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
