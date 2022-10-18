@@ -1,6 +1,6 @@
 ### Hi there👋, I'm Christian Iradukunda 
 
-### Software Engineer in making from Rwanda, Kigali
+### Software Engineer from Rwanda, Kigali
 ### 
 
 - 🌱 I’m currently a student of ALX Software Engineering Program
